@@ -171,8 +171,7 @@ const App = () => {
     <div id="app" className="flex flex-column">
       <header className="title-bar flex flex-row flex-center">
         <div className="title-wrapper block center-element">
-          <img className="logo" src="http://feathersjs.com/img/feathers-logo-wide.png" alt="Feathers Logo" />
-          <span className="title">Chat</span>
+          <img className="logo" src="https://raw.githubusercontent.com/Noculi/inh-feather/master/coollogo_com-14912850.png" alt="Feathers Logo" />
         </div>
       </header>
       <ChatApp />
