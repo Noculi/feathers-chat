@@ -19,10 +19,6 @@
       "description": "Your secret for encrypting JWT's used with Feather authentication",
       "required": true,
       "generator": "secret"
-    },
-      "INH_NETWORK_ID": {
-        "description": "The INH Network ID that this service will be hosted on",
-        "required": false,
     }
   },
   "formation": [
