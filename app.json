@@ -10,9 +10,9 @@
     "realtime",
     "nedb"
   ],
-  "website": "http://feathersjs.com",
-  "repository": "https://github.com/Noculi/feathers-chat",
-  "logo": "https://raw.githubusercontent.com/Noculi/feathers-chat/master/coollogo_com-14912850.png",
+  "website": "https://noculi.github.io/inh-feather",
+  "repository": "https://github.com/Noculi/inh-feather",
+  "logo": "https://raw.githubusercontent.com/Noculi/inh-feather/master/coollogo_com-14912850.png",
   "success_url": "/",
   "env": {
     "FEATHERS_AUTH_SECRET": {
