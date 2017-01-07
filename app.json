@@ -1,5 +1,5 @@
 {
-  "name": "Feathers Chat",
+  "name": "INH Feather",
   "description": "A real-time chat API built with Feathers and NeDB",
   "keywords": [
     "node",
@@ -11,14 +11,18 @@
     "nedb"
   ],
   "website": "http://feathersjs.com",
-  "repository": "https://github.com/feathersjs/feathers-chat",
-  "logo": "http://s32.postimg.org/4k9q912x1/aar_QEIys.jpg",
+  "repository": "https://github.com/Noculi/feathers-chat/",
+  "logo": "https://raw.githubusercontent.com/Noculi/feathers-chat/master/coollogo_com-14912850.png",
   "success_url": "/",
   "env": {
     "FEATHERS_AUTH_SECRET": {
       "description": "Your secret for encrypting JWT's used with Feather authentication",
       "required": true,
       "generator": "secret"
+    },
+      "INH_NETWORK_ID": {
+        "description": "The INH Network ID that this service will be hosted on",
+        "required": false,
     }
   },
   "formation": [
