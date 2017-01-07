@@ -1,6 +1,6 @@
 ![Chat App](coollogo_com-14912850.png)
 
-[![Build Status](https://travis-ci.org/feathersjs/feathers-chat.png?branch=master)](https://travis-ci.org/feathersjs/feathers-chat)
+[![Build Status](https://travis-ci.org/Noculi/inh-feather.png?branch=master)](https://travis-ci.org/Noculi/inh-feather)
 
 > A real-time chat application
 
@@ -39,7 +39,7 @@ Feathers has a powerful generator. Here's just a few things that it can do:
 
 ## Deploying
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Noculi/feathers-chat)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Noculi/inh-feather)
 
 ## Help
 
