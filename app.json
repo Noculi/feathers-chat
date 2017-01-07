@@ -11,7 +11,7 @@
     "nedb"
   ],
   "website": "http://feathersjs.com",
-  "repository": "https://github.com/Noculi/feathers-chat/",
+  "repository": "https://github.com/Noculi/feathers-chat",
   "logo": "https://raw.githubusercontent.com/Noculi/feathers-chat/master/coollogo_com-14912850.png",
   "success_url": "/",
   "env": {
